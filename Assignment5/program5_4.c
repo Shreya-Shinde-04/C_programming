@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckDivisibility
+//  Input         :Integer
+//  Output        :void
+//  Description   :Checks Divisibility by 3 and 5
+//  Date          :22/10/2026
+//  Author        :Shreya Kumar Shinde
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 

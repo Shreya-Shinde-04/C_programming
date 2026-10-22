@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :CheckCharacterType
+//  Input         :Character
+//  Output        :void
+//  Description   :Checks whether input is uppercase or lowercase or digit or special character
+//  Date          :22/10/2026
+//  Author        :Shreya Kumar Shinde
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

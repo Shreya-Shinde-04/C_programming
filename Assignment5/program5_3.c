@@ -1,3 +1,14 @@
+/////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :DisplayGrade
+//  Input         :Float
+//  Output        :void
+//  Description   :Calculate Student Grade
+//  Date          :22/10/2026
+//  Author        :Shreya Kumar Shinde
+//
+/////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 
