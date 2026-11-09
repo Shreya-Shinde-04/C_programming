@@ -2,8 +2,11 @@
 ///////////////////////////////////////////////////////////////////////
 //
 // Function Name : DisplayPattern
-// Input         : Integer, Integer
-// Output        : Character Pattern
+// Input         : iRow = 4    iCol = 4
+// Output        : A  B  C  D
+//                 a  b  c  d
+//                 A  B  C  D
+//                 a  b  c  d
 // Description   : Display alternate uppercase and lowercase pattern
 // Date          : 10/11/2026
 // Author        : Shreya Kumar Shinde

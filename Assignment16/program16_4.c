@@ -2,8 +2,13 @@
 ///////////////////////////////////////////////////////////////////////
 //
 // Function Name : DisplayPattern
-// Input         : Integer, Integer
-// Output        : Number Pattern
+// Input         : iRow = 3    iCol = 5
+// Output        : 4  4  4  4  4  
+//                 3  3  3  3  3
+//                 2  2  2  2  2
+//                 1  1  1  1  1
+//
+//
 // Description   : Accept rows and columns and display descending pattern
 // Date          : 10/11/2026
 // Author        : Shreya Kumar Shinde

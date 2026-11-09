@@ -2,8 +2,12 @@
 ///////////////////////////////////////////////////////////////////////
 //
 // Function Name : Void Display Pattern
-// Input         : Integer, Integer
-// Output        : Character Pattern
+// Input         : iRow = 4    iCol = 4
+// Output        : A  B  C  D
+//                 A  B  C  D
+//                 A  B  C  D
+//                 A  B  C  D
+//
 // Description   : Accept rows and columns and display pattern
 // Date          : 10/11/2026
 // Author        : Shreya Kumar Shinde

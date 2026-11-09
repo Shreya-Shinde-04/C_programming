@@ -2,8 +2,11 @@
 ///////////////////////////////////////////////////////////////////////
 //
 // Function Name : DisplayPattern
-// Input         : Integer, Integer
-// Output        : Number Pattern
+// Input         : iRow = 3    iCol = 4
+// Output        : 1  2  3  4
+//                 5  6  7  8
+//                 9  10 11 12
+//
 // Description   : Accept rows and columns and display consecutive numbers
 // Date          : 10/11/2026
 // Author        : Shreya Kumar Shinde

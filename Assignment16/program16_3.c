@@ -2,8 +2,10 @@
 ///////////////////////////////////////////////////////////////////////
 //
 // Function Name : DisplayPattern
-// Input         : Integer, Integer
-// Output        : Character Pattern
+// Input         : iRow = 3    iCol = 5
+// Output        : A  A  A  A
+//                 B  B  B  B
+//                 C  C  C  C
 // Description   : Accept rows and columns and display pattern
 // Date          : 10/11/2026
 // Author        : Shreya Kumar Shinde
